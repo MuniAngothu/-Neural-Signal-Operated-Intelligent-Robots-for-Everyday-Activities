@@ -1,0 +1,33 @@
+1)From Refereences create a bunch of abstract 
+
+ Developing Training Simulators and Educational Tools
+
+->Develop a general-purpose BRI system that can perform various everyday tasks using
+neural signals.
+->Enhance the robot's ability to learn and adapt to individual users' intentions.
+ ->Improve the efficiency of human-robot interaction through neural communication.
+
+
+
+1)Literarure Review 
+2)introduction(Referenece - base paper)
+
+
+My thoughts:
+1)EEG dataset
+2)Decode the EGG what actually thinking 
+modifiy:
+use ai-ml as technology to decode the msg and pass to stimulater to do work
+3)After decode,give input to stimulation through we chat
+ex:EEG signal decoded as sit,then give input to robot with python language software
+
+
+
+Note 2 EXplore projects:
+Preprocessing Data of EEG During Arithmetic Task @Arithmetic Task
+EEG Emotion Prediction @Emotion
+EEG Data Analysis @EEG Analysis
+EEG Data from Hands Movement @Hand Movement
+Predicting Motions from EEG Readings @Predicting Motions
+Recognizing Hand Movements Using EEG Signal Classification @Hand Movement Classifier
+Grasp and Lift EEG Detection @Grasp It
