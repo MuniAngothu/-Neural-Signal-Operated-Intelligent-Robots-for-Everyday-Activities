@@ -65,5 +65,5 @@ This project is driven by the goal to:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/NOIR.git
+   git clone https://github.com/MuniAngothu/NOIR.git
    cd NOIR
