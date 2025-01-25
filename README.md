@@ -12,8 +12,7 @@ This repository contains the source code, datasets, and documentation for the pr
 - [Usage](#usage)
 - [Results](#results)
 - [Future Scope](#future-scope)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ---
 
